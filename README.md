@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facelift2376&label=Profile%20views&color=0e75b6&style=flat" alt="facelift2376" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=facelift2376" alt="facelift2376" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Facelift2376" alt="facelift2376" /></a> </p>
 
 - 🔭 I’m currently working on [Enyugma'23](https://github.com/DevCIIITBhagalpur/enyugma23)
 
