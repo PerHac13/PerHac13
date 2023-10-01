@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SHAIKH ABDULLAH</h1>
 <h3 align="center">Passionate Cybersecurity Enthusiast and Web App Developer on a Quest for Constant Learning 🔒💻</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=facelift2376&label=Profile%20views&color=0e75b6&style=flat" alt="facelift2376" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=perhac13&label=Profile%20views&color=0e75b6&style=flat" alt="perhac13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Facelift2376" alt="facelift2376" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PerHac13" alt="perhac13" /></a> </p>
 
 - 🔭 I’m currently working on [Enyugma'23](https://github.com/DevCIIITBhagalpur/enyugma23)
 
@@ -85,6 +85,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=facelift2376&show_icons=true&locale=en&layout=compact" alt="facelift2376" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perhac13&show_icons=true&locale=en&layout=compact" alt="perhac13" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=facelift2376&show_icons=true&locale=en" alt="facelift2376" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perhac13&show_icons=true&locale=en" alt="perhac13" /></p>
