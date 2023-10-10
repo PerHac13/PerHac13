@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **TypeScript ,kafka, Next.js**
 
-- 👨‍💻 All of my projects are available at [https://commingsoom.com](https://commingsoom.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://perhac13.github.io/Portfolio/)
 
 - 📫 How to reach me **abdullah13112004@gmail.com**
 
