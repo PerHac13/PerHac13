@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=perhac13&label=Profile%20views&color=0e75b6&style=flat" alt="perhac13" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PerHac13" alt="perhac13" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PerHac13&theme=nord" alt="perhac13" /></a> </p>
 
 - 🔭 I’m currently working on [Enyugma'23](https://github.com/DevCIIITBhagalpur/enyugma23)
 
