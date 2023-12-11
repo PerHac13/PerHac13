@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PerHac13&theme=nord" alt="perhac13" /></a> </p>
 
-- 🔭 Recently, I was working on [Enyugma'23](https://github.com/DevCIIITBhagalpur/enyugma23)
+- 🔭 Recently, I am working on [Jotion](https://github.com/PerHac13/jotion)
 
-- 🌱 I’m currently learning **TypeScript ,kafka, Next.js**
+- 🌱 I’m currently learning **TypeScript , Next.js**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://perhac13.github.io/Portfolio/)
 
