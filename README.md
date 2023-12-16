@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PerHac13&theme=nord" alt="perhac13" /></a> </p>
 
-- 🔭 Recently, I am working on [Jotion](https://github.com/PerHac13/jotion)
+- 🔭 Recently, I was working on [Jotion](https://github.com/PerHac13/jotion)
 
 - 🌱 I’m currently learning **TypeScript , Next.js**
 
