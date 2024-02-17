@@ -85,10 +85,9 @@
 </p>
 
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=perhac13&theme=transparent" alt="perhac13" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perhac13&show_icons=true&theme=transparent&locale=en" alt="perhac13" /></p>
+<p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=perhac13&show_icons=true&theme=transparent&locale=en&layout=compact" alt="perhac13" /></p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=perhac13&show_icons=true&theme=transparent&locale=en" alt="perhac13" /></p>
-
 <p><img src="https://tryhackme-badges.s3.amazonaws.com/PERHAC.png" alt="TryHackMe"></p>
