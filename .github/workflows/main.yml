@@ -99,7 +99,7 @@ jobs:
           plugin_stargazers_worldmap_sample: 10
           plugin_topics: "yes"
           plugin_topics_limit: 15
-          plugin_topics_mode: starred
+          plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_traffic: "yes"
           plugin_wakatime: "yes"
@@ -114,3 +114,4 @@ jobs:
              "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
              "wait": 1,
              "hide": "button, footer, a"}
+
