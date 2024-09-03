@@ -30,15 +30,15 @@ jobs:
           plugin_activity: "yes"
           plugin_activity_days: 14
           plugin_activity_filter: all
-          plugin_activity_skipped: Competitive_Programming
+          plugin_activity_skipped: Competitive_Programming, PerHac13, ashaikh, Resume
           plugin_activity_limit: 5
           plugin_activity_load: 300
           plugin_activity_visibility: all
-          plugin_code: "yes"
-          plugin_code_days: 3
-          plugin_code_lines: 12
-          plugin_code_load: 400
-          plugin_code_visibility: public
+          # plugin_code: "yes"
+          # plugin_code_days: 3
+          # plugin_code_lines: 12
+          # plugin_code_load: 400
+          # plugin_code_visibility: public
           plugin_followup: "yes"
           plugin_followup_archived: "yes"
           plugin_followup_indepth: "yes"
@@ -92,10 +92,10 @@ jobs:
           plugin_repositories_pinned: 6
           plugin_repositories_random: 2
           plugin_repositories_starred: 2
-          plugin_skyline: "yes"
-          plugin_skyline_frames: 60
-          plugin_skyline_quality: 0.5
-          plugin_skyline_year: current-year
+          # plugin_skyline: "yes"
+          # plugin_skyline_frames: 60
+          # plugin_skyline_quality: 0.5
+          # plugin_skyline_year: current-year
           # plugin_stargazers: "yes"
           # plugin_stargazers_charts: "yes"
           # plugin_stargazers_charts_type: classic
