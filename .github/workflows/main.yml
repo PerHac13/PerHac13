@@ -17,7 +17,7 @@ jobs:
         with:
           token: "${{ secrets.METRICS_TOKEN }}"
           user: PerHac13
-          template: compact
+          template: repository 
           base: "header, isocalender, activity, community, repositories, metadata"
           commits_authoring: PerHac13
           base_hireable: "yes"
