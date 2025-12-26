@@ -4,11 +4,22 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
   <img src="metrics.activity.svg" />
 </td>
-<td>
+<td width="50%">
+  <img src="metrics.calendar.svg" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%">
   <img src="metrics.stats.svg" />
+</td>
+<td width="50%">
+  <img src="metrics.achievements.svg" />
 </td>
 </tr>
 </table>
