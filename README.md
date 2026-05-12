@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
   <img src="metrics.header.svg" />
 </p>
 
@@ -26,4 +26,7 @@
 
 <p align="center">
   <img src="metrics.community.svg" />
-</p>
+</p> -->
+<picture align="center">
+  <img src="/github-metrics.svg" />
+</picture>
